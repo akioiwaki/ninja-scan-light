@@ -162,6 +162,7 @@ class GPS_SinglePositioning {
       }
     }
 
+  public:
     struct user_pvt_t {
       enum {
         ERROR_NO = 0,
